@@ -10,7 +10,7 @@ public class SampleTest2
 	public void method2()
 	{
 		System.out.println("Method2 is running");
-		System.out.println("Push Test 1st Commit");
+		System.out.println("Pull Back Test 1st Commit");
 	}
 
 }
