@@ -8,6 +8,6 @@ public class SampleTest3
 	public void method3()
 	{
 		System.out.println("Method3 is running");
-		System.out.println("Push Test 1st Commit");
+		System.out.println("Pull Back Test 1st Commit");
 	}
 }
